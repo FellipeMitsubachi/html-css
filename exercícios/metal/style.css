@@ -1,0 +1,32 @@
+@charset "UTF-8";
+@font-face {
+    font-family:'Nihon';
+    src: url('SAKURATA.ttf');
+    font-weight: normal;
+    font-style: normal; }
+
+body {
+    background-image: linear-gradient(to right, #421180,#8521FF,#AF6EFF,#583780,#6B1BCC)
+}
+main {
+    background-color: rgb(221, 235, 247);
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px black;
+    width: 600px;
+    padding: 10px;
+    margin: auto
+}
+h1 {
+    font-family: 'Nihon';
+    color: black;
+text-align: center;
+text-shadow: 2px 2px 2px white;
+}
+h2 {font-family:'Pacifico', cursive;
+    color: black;
+text-shadow: 0.5px 0.5px 1px white;}
+
+p {
+    text-align: justify;
+    
+}
